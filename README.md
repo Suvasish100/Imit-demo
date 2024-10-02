@@ -1,2 +1,2 @@
-# Imit-demo
+# Octanet_October
 It is my first GIT repository 
